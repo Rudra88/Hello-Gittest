@@ -3,4 +3,5 @@
 int main()
 {
     Printf("Hello GitHub");
+    Printf("This indicate test 2");
 }
